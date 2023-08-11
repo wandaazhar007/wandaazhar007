@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://wandaazhar.vercel.app](https://wandaazhar.vercel.app)
+- 👨‍💻 Some of my projects are available at [https://wandaazhar.vercel.app](https://wandaazhar.vercel.app)
 
 - 💬 Ask me about **css, sass, javascript, typescript, nodeJs**
 
